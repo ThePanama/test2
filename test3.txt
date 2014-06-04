@@ -1,3 +1,4 @@
 this is quite cool!
 oh yes it is!
 branch test1
+wahoo it worked ;-)
